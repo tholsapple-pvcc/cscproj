@@ -1,7 +1,7 @@
 # cscproj
 <!DOCTYPE html>
 <html lang="en">
-
+<html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -92,8 +92,10 @@
     </section>
 
     <footer>
-        <p>&copy; 2024 The Evolution of Technology and Computers</p>
-    </footer>
+        <p>&copy; 2024 The Evolution of Technology and Computers</p> 
+        </footer>
+</html>
+   
 
 </body>
 
